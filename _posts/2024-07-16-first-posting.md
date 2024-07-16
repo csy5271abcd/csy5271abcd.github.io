@@ -3,7 +3,7 @@ layout: post
 title:  "My First Posting~!!"
 ---
 
-# It'S my first posting on github blog
+# It's my first posting on github blog
 
 **Hello world**, this is my first blog post.
 
