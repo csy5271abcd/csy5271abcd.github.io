@@ -1,4 +1,5 @@
 source "https://rubygems.org"
 gemspec
-gem "webrick"
-gem "rake", ">= 12.3.3"
+gem "minimal-mistakes-jekyll"
+bundle
+
